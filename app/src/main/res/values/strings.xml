@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Meet Clone</string>
+    <string name="title_activity_join">Join</string>
+    <string name="title_activity_home">Home</string>
+</resources>
