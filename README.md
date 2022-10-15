@@ -1,4 +1,4 @@
-# GDSC DAVCC
+# Compose Camp 2022, GDSC DAVCC
 
 
 # Google-Meet-Clone
