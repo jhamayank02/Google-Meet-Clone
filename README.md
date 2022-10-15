@@ -1,5 +1,10 @@
+# GDSC DAVCC
+
+
 # Google-Meet-Clone
 Google-Meet-Clone a basic UI clone of "Google Meet",  which is made using kotlin and compose which replaces the use of XML in android app development.
+
+Spcecial thanks [Mukul Yadav](https://www.linkedin.com/in/mukulji) and [Sayam Sharma](https://www.linkedin.com/in/SayamSharma), While creating this clone app, whenever I got stuck on any step they helped me a lot and made the completion of this clone app possible.
 
 This is how the app looks in the Light and Dark mode
 
